@@ -1,10 +1,7 @@
-# Environment Setup
+# Steps to Activate Virtual Environment on Windows:
 
-To get started with Django, you’ll need to install it on your computer. You can do this by running the following command in your terminal, after setting up a virtual environment:
+## Create a virtual environment (if not already):
 
 ```bash
-python -m venv .venv
-# to activate the virtual environment
-.venv\Scripts\activate
-
+python -m venv venv
 ```
