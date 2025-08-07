@@ -14,7 +14,7 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
-### In Command Prompt:
+### (or) In Command Prompt:
 
 ```bash
 venv\Scripts\activate.bat
