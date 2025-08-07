@@ -1,6 +1,6 @@
 # Steps to Activate Virtual Environment on Windows:
 
-## Create a virtual environment (if not already):
+## 1. Create a virtual environment:
 
 ```bash
 python -m venv venv
