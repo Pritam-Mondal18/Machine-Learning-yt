@@ -25,3 +25,9 @@ venv\Scripts\activate.bat
 ```bash
 deactivate
 ```
+
+## To install NumPy inside your activated virtual environment, just run:
+
+```bash
+pip install numpy
+```
